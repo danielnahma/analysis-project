@@ -1,3 +1,3 @@
-# jupyter notebook analysis-project 
+# analysis-project python and SQL
 
 
