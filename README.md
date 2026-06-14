@@ -1,3 +1,3 @@
-# analysis-project python and SQL
+# analysis-project: python and SQL
 
 
